@@ -11,6 +11,7 @@ body {
     height: 216px;
     float: left;
     position: relative;
+    overflow: hidden;
 }
 
 .zoom li.large{
